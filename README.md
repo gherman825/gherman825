@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gherman825
 - 👀 I’m interested in programming (obviously), art, laser cutting and 3D printing.
-- 🌱 I’m currently learning arduino programming (FastLED) 
+- 🌱 I’m currently building extensions for SketchUp Pro.
 
 
 
